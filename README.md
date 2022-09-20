@@ -25,7 +25,7 @@
 [1779.Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate](./1.Easy/1779.Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate/)</br>
 
 ## Medium
-[3.Longest_Substring_Without_Repeating_Characters/)</](./2.Medium/3.Longest_Substring_Without_Repeating_Characters/)</br>
+[3.Longest_Substring_Without_Repeating_Characters｀｀)](./2.Medium/3.Longest_Substring_Without_Repeating_Characters/)</br>
 [53.Maximum_Subarray](./2.Medium/53.Maximum_Subarray/)</br>
 [107.Binary_Tree_Level_Order_TraversalII](./2.Medium/107.Binary_Tree_Level_Order_TraversalII/)</br>
 [122.Best_Time_to_Buy_and_Sell_Stock_II](./2.Medium/122.Best_Time_to_Buy_and_Sell_Stock_II/)</br>
